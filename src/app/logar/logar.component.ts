@@ -42,4 +42,8 @@ export class LogarComponent implements OnInit {
 
   }
 
+  inicio() {
+    this.router.navigate(['/inicio'])
+  }
+
 }
