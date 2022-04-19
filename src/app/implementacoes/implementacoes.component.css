@@ -69,13 +69,13 @@
      animation-play-state: paused;
  }
  .checkbox.scnd + label{
-   background-image: url('https://i.imgur.com/kObSoNm.jpg');
+   background-image: url('https://i.imgur.com/K7UbCnV.jpg');
  }
  .checkbox.thrd + label{
-   background-image: url('https://i.imgur.com/Q4mvq9y.jpg');
+   background-image: url('https://i.imgur.com/2dZffAj.jpg');
  }
  .checkbox.foth + label{
-   background-image: url('https://i.imgur.com/oJu9Sns.jpg');
+   background-image: url('https://i.imgur.com/D6BBh6J.jpg');
  }
  
  .checkbox:checked + label{
